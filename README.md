@@ -1,2 +1,3 @@
-# STM32F765-Gelistirme-Kart-Yapimi
+**STM32F765-Gelistirme-Kart-Yapimi**
+
 Merhaba Arkadaşlar bu yazımda ST Microelectronics firmasının tasarlamış olduğu  STM32F765VIT6 Mikrodenetleyicisine uygun bir geliştirme kartı tasarlayacağız ve programlayacağız. Microchip, Atmel, NXP, STM vs. derken artık ileri seviye ARM Mcu hayatımıza girerek kullanımı artıyor. Bende gerek günümüzde diğer mikrodenetleyicilerden uygun fiyatlı oluşu ve yapacağım projeme en uygun ve çevre birimlerinin çok olduğu için STM32F765VIT6 Arm® Cortex®-M7 32-bit RISC core Mikrodenetleyicisini seçtim, kullanışlı bir deney kartı ile Arm Mikrodenetleyici kartının projelerimizde kullanımına başlayabiliriz. 
